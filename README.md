@@ -1,1 +1,1 @@
- readme of shell basic repo
+Write a script that prints hello world
